@@ -1,0 +1,6 @@
+{
+  "name": "Daxi",
+  "description": "An offline-first, high-fidelity social media carousel builder for LinkedIn, Instagram, and custom platforms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
